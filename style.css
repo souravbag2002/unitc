@@ -52,7 +52,7 @@ body{
     outline: none;
     box-shadow: 0.1px 1px 2px 1px rgb(145,140,135);
     padding: 5px;
-    font-size: large;
+    font-size: 1rem;
     border-radius: 2px;
     font-family: 'Times New Roman', Times, serif;
     color: rgb(90, 29, 211);
