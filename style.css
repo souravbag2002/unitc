@@ -58,7 +58,7 @@ body{
     color: rgb(90, 29, 211);
 }
 
-/* @media screen and (max-width: 400px) {
+ @media screen and (max-width: 400px) {
     *{
         margin: 0;
         padding: 0;
@@ -103,4 +103,4 @@ body{
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     }
 
- } */
+ } 
